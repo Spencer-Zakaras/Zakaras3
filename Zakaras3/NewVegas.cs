@@ -1,3 +1,13 @@
+/********************************************************************
+*** NAME : Spencer Zakaras***
+*** CLASS : CSc 346 ***
+*** ASSIGNMENT : 3***
+*** DUE DATE : 3/10/23***
+*** INSTRUCTOR : GAMRADT ***
+*********************************************************************
+*** DESCRIPTION : this assignment is to use classes & inheretence to print out a charecter stat block. this file defines the parent NewVegas class. ***
+********************************************************************/
+
 namespace NewVegasNS; //shared namespace
 
     public abstract class NewVegas //declare NewVegas Class & prepare to define IView functions

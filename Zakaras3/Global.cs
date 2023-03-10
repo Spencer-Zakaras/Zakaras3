@@ -1,3 +1,13 @@
+/********************************************************************
+*** NAME : Spencer Zakaras***
+*** CLASS : CSc 346 ***
+*** ASSIGNMENT : 3***
+*** DUE DATE : 3/10/23***
+*** INSTRUCTOR : GAMRADT ***
+*********************************************************************
+*** DESCRIPTION : this assignment is to use classes & inheretence to print out a charecter stat block. this file defines two enumerated data types used in those stat blocks. ***
+********************************************************************/
+
 namespace NewVegasNS; //shared namespace
 
 

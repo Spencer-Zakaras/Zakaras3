@@ -1,3 +1,13 @@
+/********************************************************************
+*** NAME : Spencer Zakaras***
+*** CLASS : CSc 346 ***
+*** ASSIGNMENT : 3***
+*** DUE DATE : 3/10/23***
+*** INSTRUCTOR : GAMRADT ***
+*********************************************************************
+*** DESCRIPTION : this assignment is to use classes & inheretence to print out a charecter stat block. this file defines the child courier. ***
+********************************************************************/
+
 namespace NewVegasNS; //shared namepsace
 
 public class Courier : NewVegas //Class W/Inheritence from the NewVegas class
